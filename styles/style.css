@@ -1,0 +1,29 @@
+body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(121, 149, 165)
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    font-size: 60px;
+    text-align: center;
+    color: rgb(103, 72, 240);
+    text-shadow: 5px 6px 9px black; /* horizontal offset, vertical offset, blur radius, color of the shadow */
+    /*background-color: rgba(0, 159, 8, 0.74);*/
+    
+}
+
+p,ol {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+    
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
